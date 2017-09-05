@@ -18,7 +18,7 @@ Servidor nou?:
 
 
 Ebre-escool:
-- Donar d'alta els professors. Sergi Té llista em va donar marisa però que la tret del GPUNTIS
+- Donar d'alta els professors. Sergi Té llista em va donar Marisa però que la tret del GPUNTIS
 - Primer fer els professors nous. Crear usuari i password i comprovar:
 -- Accés correu Gmail centre
 -- Accés Moodle
@@ -47,3 +47,10 @@ També comenta Jordi Varas a Beep n'hi ha
 - Repassar errors de disc de servers. Si cal demanar discs pels servidors tinguin dicos donant problemes
 - Repassar tots els backups ok
 - Errors que tenim al server proxmos06 al arrancar?
+
+# Organització
+- Passar este repo a Insebre o organització on tinguem repos privats
+- Gestionar admins de grups i repos públics i privats afegint-nos com usuaris admins
+- Tenim https://github.com/INSEBRE i https://github.com/Institut-Ebre 
+  - Posar descripcions ok diferenciar quin és Alumnes i quins es maninfo. Potser canviar nom per ser més clar maninfo 
+  i també alumnes
